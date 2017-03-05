@@ -51,7 +51,7 @@ Create `cacheman-redis` instance. `options` are redis valid options including `p
 var options = { 
   port: 9999,
   host: '127.0.0.1',
-  password: 'my-p@ssw0rd'
+  password: 'my-p@ssw0rd',
   database: 1
 };
 
